@@ -1,2 +1,13 @@
-# CBeau
-I developed a detailed Boeing 737 website showcasing structured content, responsive design, and front‑end development skills. I built a fully interactive Blackjack game in Python that demonstrates logic, functions, and user‑driven gameplay. I created a LEGO showcase website highlighting four sets with consistent styling. I also designed a tropical houseplant website focused on accessibility, layout, and organized information. Finally, I built a mobile login UI in Android Studio using XML layouts and core interface components.
+# Christopher Beaudoin Technical Portfolio Highlights
+
+Completed coursework within the Web Design and Software Development program at Anoka Technical College (Anoka, MN), maintaining a straight-A academic record across two years of technical training.
+
+Boeing 737 Interactive Website: Engineered a responsive, content-driven website demonstrating advanced front-end development, semantic HTML structure, and modern CSS layout techniques.
+
+Python Interactive Blackjack Game: Developed a fully functional command-line game utilizing core programming fundamentals, including custom function architecture, game loop logic, and input validation.
+
+LEGO Product Showcase Site: Designed a multi-page product showcase featuring standardized branding, modular CSS styling, and optimized media presentation across four distinct product lines.
+
+Tropical Houseplant Accessibility Site: Constructed a user-focused web application emphasizing Web Content Accessibility Guidelines (WCAG), clean visual hierarchy, and intuitive information architecture.
+
+Android Studio Mobile Login UI: Authored a native mobile interface utilizing custom XML layouts, view styling, and interactive UI components optimized for mobile devices.
